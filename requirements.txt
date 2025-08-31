@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+firecrawl
+chromadb
+pandas
+requests
+beautifulsoup4
